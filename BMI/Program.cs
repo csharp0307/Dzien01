@@ -31,13 +31,13 @@ namespace BMI
                 Console.WriteLine("niedowaga");
             } else if (bmi<25)
             {
-                Console.WriteLine("OK");
+                Console.WriteLine("ok");
             } else if (bmi<30)
             {
                 Console.WriteLine("nadwaga");
             } else
             {
-                Console.WriteLine("otylosc");
+                Console.WriteLine("otyłość");
             }
             Console.ReadKey();
 
