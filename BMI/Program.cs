@@ -8,6 +8,7 @@ namespace BMI
 {
     class Program
     {
+        // MW - zmiana wprowadza z zewnątrz 
         static void Main(string[] args)
         {
             /*
